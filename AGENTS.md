@@ -1,4 +1,8 @@
 # competitor-geo-watch
 
+Agent skill that watches competitor GEO scores and alerts on changes.
+
 ## For AI agents
-- Sister repos: awesome-ai-visibility, ai-crawlers, geo-audit-skill, schema-for-ai, repo-visibility-skill, llmstxt-gen, marketing-skills, geo-prompts, geo-watch, mcp-geo, geo-prompt-optimizer, llm-citation-scanner, geo-benchmarks, eeat-analyzer, geo-content-template, structured-data-tester, competitor-geo-watch, geo-local-skill, ai-search-share-of-voice
+- Run scripts/generate.py with --help for options
+- Use --json flag for machine-readable output
+- Sister repos: awesome-ai-visibility, ai-crawlers, geo-audit-skill, schema-for-ai, repo-visibility-skill, llmstxt-gen, marketing-skills, geo-prompts, geo-watch, mcp-geo
